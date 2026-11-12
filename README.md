@@ -32,7 +32,7 @@ Quarterly Performance Analysis</br>
 Category-wise Contribution to Total Revenue</br>
 
 
-<img width="1290" height="727" alt="Screenshot 2026-10-10 161729" src="https://github.com/user-attachments/assets/44479a07-2e52-41c7-9d07-bf4c27327a88" />
+<img width="1287" height="723" alt="Screenshot 2026-10-10 161647" src="https://github.com/user-attachments/assets/38e36454-cad9-4ded-bde1-1f10c096fc87" />
 
 ## Customer Analysis & Insights</br>
 This section focuses on understanding customer behavior and purchasing patterns.</br>
@@ -51,8 +51,8 @@ Analyzes payment preferences and purchasing behavior.</br>
 Supports targeted marketing and customer engagement strategies.</br>
 
 
-<img width="1287" height="723" alt="Screenshot 2026-10-10 161647" src="https://github.com/user-attachments/assets/38e36454-cad9-4ded-bde1-1f10c096fc87" />
 
+<img width="1290" height="727" alt="Screenshot 2026-10-10 161729" src="https://github.com/user-attachments/assets/44479a07-2e52-41c7-9d07-bf4c27327a88" />
 ## Return Analysis</br>
 The Return Analysis page helps monitor product returns and their impact on business performance.</br>
 ## Key Metrics</br>
